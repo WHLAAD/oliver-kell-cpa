@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Fetch split-adjusted daily OHLCV data with no third-party dependencies.
 
-This is a convenience fallback for the Oliver Kell CPA Skill. It uses Yahoo
+This is a convenience fallback for the Cycle of Price Action Skill. It uses Yahoo
 Finance's public chart endpoint and writes normalized CSV plus provenance JSON.
 The endpoint can be delayed, rate-limited, or unavailable; current values still
 need session-aware verification before they are described as live.
@@ -24,7 +24,7 @@ from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 
 API_URL = "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
-USER_AGENT = "oliver-kell-cpa/1.0 (portable Codex skill)"
+USER_AGENT = "cycle-of-price-action/1.0 (portable Codex skill)"
 SYMBOL_PATTERN = re.compile(r"^[A-Za-z0-9.\-^=]{1,32}$")
 
 

@@ -1,9 +1,9 @@
 ---
-name: oliver-kell-cpa
-description: Analyze stocks and ETFs with Oliver Kell-style Cycle of Price Action (CPA). Use for CPA stage classification, Reversal Extension, Wedge Pop, EMA Crossback, Base & Break, Exhaustion Extension, Wedge Drop, CPA trade plans, setup grading, or multi-ticker CPA screens. Do not use for generic fundamental analysis that does not request CPA.
+name: cycle-of-price-action
+description: Analyze stocks and ETFs with the Cycle of Price Action (CPA) framework popularized by Oliver Kell. Use for CPA stage classification, Reversal Extension, Wedge Pop, EMA Crossback, Base & Break, Exhaustion Extension, Wedge Drop, CPA trade plans, setup grading, or multi-ticker CPA screens. Do not use for generic fundamental analysis that does not request CPA.
 ---
 
-# Oliver Kell Cycle of Price Action
+# Cycle of Price Action Stock Analysis
 
 Produce disciplined, data-grounded CPA analysis for stocks and ETFs. Determine the cycle stage before discussing action, cite the evidence, define invalidation from price structure, and state uncertainty.
 

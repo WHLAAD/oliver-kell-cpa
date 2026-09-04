@@ -1,7 +1,7 @@
 interface:
-  display_name: "Oliver Kell CPA"
-  short_description: "Rules-based CPA analysis for stocks and ETFs"
-  default_prompt: "Use $oliver-kell-cpa to analyze a stock or ETF with current data and the Cycle of Price Action framework."
+  display_name: "Cycle of Price Action Stock Analysis"
+  short_description: "Analyze stocks and ETFs through the CPA cycle"
+  default_prompt: "Use $cycle-of-price-action to analyze a stock or ETF with current data and the Cycle of Price Action framework."
 
 policy:
   allow_implicit_invocation: true

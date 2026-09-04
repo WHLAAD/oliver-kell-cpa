@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Calculate deterministic evidence for an Oliver Kell-style CPA analysis.
+"""Calculate deterministic evidence for a Cycle of Price Action analysis.
 
 The script intentionally does not assign a CPA stage. It validates daily OHLCV,
 calculates indicators and relative strength, and emits JSON evidence for an agent
