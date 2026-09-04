@@ -45,7 +45,7 @@ Restart Codex if the newly installed Skill does not appear immediately.
 Natural language:
 
 ```text
-用 CPA 帮我分析今天的 NVDA。
+Analyze NVDA today using the CPA framework.
 ```
 
 Explicit invocation:
