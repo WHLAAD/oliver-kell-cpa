@@ -1,5 +1,7 @@
 # Oliver Kell CPA Skill
 
+**English** | [简体中文](README.zh-CN.md)
+
 A portable Codex Skill for rules-based analysis of stocks and ETFs using an Oliver Kell-inspired Cycle of Price Action workflow.
 
 This is an independent, unofficial implementation. Its numerical thresholds and setup grade are consistency heuristics, not rules attributed to Oliver Kell.
@@ -26,7 +28,8 @@ oliver-kell-cpa/
 │   ├── cpa-stages.md
 │   └── reporting-and-risk.md
 ├── tests/test_calculate_cpa.py
-└── README.md
+├── README.md
+└── README.zh-CN.md
 ```
 
 ## Install
